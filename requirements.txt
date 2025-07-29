@@ -1,3 +1,5 @@
 python-telegram-bot==20.7
 spotdl==4.2.11
+aiohttp
 requests
+python-dotenv
